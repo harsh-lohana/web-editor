@@ -1,2 +1,2 @@
 # web-editor
-🧑🏻‍💻 A website for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
+🧑🏻‍💻 A website for testing user-created HTML, CSS and JavaScript code snippets.
